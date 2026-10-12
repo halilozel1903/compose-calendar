@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="compose-calendar: calendar for Jetpack Compose with month, week and agenda views" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4OTUwMzAwOC00NGIwLTRkNmQtYTQxMy01M2RiMGJiNWYyN2UAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGgdn7E0gaoTMfQD7cxiuJ4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjMTRmMmI2NC1mMjQwLTRiNWEtOTkwOC05MTgwOTc1OWY5ODBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoVnPaI48R3rTb+GczDpO8+gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggvSN3rYAmMHrgcvhMna98G5ZIEIILpD9AENBNMp8i+fekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPm1ns5N0eVrPXfXTMj4t0QAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIJ3K7SwFap8RCRSBQMGpq4qVMmx/Tx0g1feg4xT5CZPdZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEBZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjg5NTAzMDA4LTQ0YjAtNGQ2ZC1hNDEzLTUzZGIwYmI1ZjI3ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjFmYTYzOWU3LTQ2OWYtNGFjZS05YmU1LTY4YzdmM2Y5NTVhMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC9I3etgCYweuBy+Eydr3wblkgQggukP0AQ0E0ynyL596JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg/AsyjSBd98fypNeju0PKYDA3A9OJZwNI8lDyzd/6MTOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggUDmHPgGayRU6QmQAIELIIQwQfD0XPetXuvHsmEG1vQ50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOD1n5oXv56CYYp+c/fYGi0PddPoo3nghks8frTJmY/kCJvxplF9X7AxXg+2oJANhK7XXf57LoBR1ySaEqm1lE8=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06302B"/>
+      <stop offset="1" stop-color="#0E6B60"/>
+    </linearGradient>
+    <clipPath id="screen">
+      <rect x="840" y="58" width="260" height="470" rx="30"/>
+    </clipPath>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#021A17" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="560" fill="url(#bg)"/>
+  <circle cx="1180" cy="40" r="210" fill="#FFFFFF" opacity="0.05"/>
+  <circle cx="40" cy="560" r="160" fill="#F2B880" opacity="0.08"/>
+  <g font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="80" y="170" fill="#F2B880" font-size="22" font-weight="700" letter-spacing="3">JETPACK COMPOSE</text>
+    <text x="80" y="238" fill="#FFFFFF" font-size="58" font-weight="800">compose-calendar</text>
+    <text x="80" y="290" fill="#C4EDE6" font-size="25">Month, week and agenda views, single and</text>
+    <text x="80" y="324" fill="#C4EDE6" font-size="25">range selection, event dots and swipe</text>
+    <text x="80" y="358" fill="#C4EDE6" font-size="25">between months.</text>
+    <g font-size="16" font-weight="600">
+      <rect x="80" y="400" width="230" height="40" rx="20" fill="#FFFFFF" opacity="0.14"/>
+      <text x="195" y="425" fill="#FFFFFF" text-anchor="middle">Month · Week · Agenda</text>
+      <rect x="322" y="400" width="96" height="40" rx="20" fill="#FFFFFF" opacity="0.14"/>
+      <text x="370" y="425" fill="#FFFFFF" text-anchor="middle">Ranges</text>
+      <rect x="430" y="400" width="118" height="40" rx="20" fill="#FFFFFF" opacity="0.14"/>
+      <text x="489" y="425" fill="#FFFFFF" text-anchor="middle">Event dots</text>
+      <rect x="560" y="400" width="118" height="40" rx="20" fill="#FFFFFF" opacity="0.14"/>
+      <text x="619" y="425" fill="#FFFFFF" text-anchor="middle">java.time</text>
+    </g>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="828" y="46" width="284" height="494" rx="40" fill="#0B1211"/>
+  </g>
+  <g clip-path="url(#screen)" font-family="Inter, Roboto, Arial, sans-serif">
+    <rect x="840" y="58" width="260" height="470" fill="#F6FBF9"/>
+    <text x="858" y="104" fill="#171D1B" font-size="15" font-weight="700">October 2026</text>
+    <path d="M1048 92 l-6 6 l6 6" fill="none" stroke="#3F4946" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1074 92 l6 6 l-6 6" fill="none" stroke="#3F4946" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="865.5" y="132" fill="#6F7976" font-size="11" font-weight="600" text-anchor="middle">M</text>
+    <text x="900.5" y="132" fill="#6F7976" font-size="11" font-weight="600" text-anchor="middle">T</text>
+    <text x="935.5" y="132" fill="#6F7976" font-size="11" font-weight="600" text-anchor="middle">W</text>
+    <text x="970.5" y="132" fill="#6F7976" font-size="11" font-weight="600" text-anchor="middle">T</text>
+    <text x="1005.5" y="132" fill="#6F7976" font-size="11" font-weight="600" text-anchor="middle">F</text>
+    <text x="1040.5" y="132" fill="#6F7976" font-size="11" font-weight="600" text-anchor="middle">S</text>
+    <text x="1075.5" y="132" fill="#6F7976" font-size="11" font-weight="600" text-anchor="middle">S</text>
+    <text x="865.5" y="169.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">28</text>
+    <text x="900.5" y="169.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">29</text>
+    <text x="935.5" y="169.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">30</text>
+    <text x="970.5" y="169.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">1</text>
+    <text x="1005.5" y="169.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">2</text>
+    <circle cx="1005.5" cy="176.0" r="2" fill="#3D6FE0"/>
+    <text x="1040.5" y="169.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">3</text>
+    <text x="1075.5" y="169.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">4</text>
+    <text x="865.5" y="209.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">5</text>
+    <text x="900.5" y="209.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">6</text>
+    <circle cx="900.5" cy="216.0" r="2" fill="#E07A2E"/>
+    <text x="935.5" y="209.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">7</text>
+    <text x="970.5" y="209.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">8</text>
+    <text x="1005.5" y="209.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">9</text>
+    <circle cx="1005.5" cy="216.0" r="2" fill="#3D6FE0"/>
+    <text x="1040.5" y="209.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">10</text>
+    <text x="1075.5" y="209.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">11</text>
+    <text x="865.5" y="249.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">12</text>
+    <circle cx="865.5" cy="256.0" r="2" fill="#3D6FE0"/>
+    <text x="900.5" y="249.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">13</text>
+    <circle cx="900.5" cy="256.0" r="2" fill="#2E9E6A"/>
+    <circle cx="935.5" cy="245.0" r="14" fill="none" stroke="#0E6B60" stroke-width="1.5"/>
+    <text x="935.5" y="249.0" fill="#0E6B60" font-size="12" font-weight="700" text-anchor="middle">14</text>
+    <circle cx="935.5" cy="256.0" r="2" fill="#3D6FE0"/>
+    <text x="970.5" y="249.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">15</text>
+    <circle cx="970.5" cy="256.0" r="2" fill="#2E9E6A"/>
+    <rect x="1005.5" y="230.0" width="17.5" height="30" fill="#C4EDE6"/>
+    <circle cx="1005.5" cy="245.0" r="15" fill="#C4EDE6"/>
+    <circle cx="1005.5" cy="245.0" r="15" fill="#0E6B60"/>
+    <text x="1005.5" y="249.0" fill="#FFFFFF" font-size="12" font-weight="700" text-anchor="middle">16</text>
+    <rect x="1023.0" y="230.0" width="35.0" height="30" fill="#C4EDE6"/>
+    <text x="1040.5" y="249.0" fill="#00201C" font-size="12" font-weight="500" text-anchor="middle">17</text>
+    <rect x="1058.0" y="230.0" width="17.5" height="30" fill="#C4EDE6"/>
+    <circle cx="1075.5" cy="245.0" r="15" fill="#C4EDE6"/>
+    <text x="1075.5" y="249.0" fill="#00201C" font-size="12" font-weight="500" text-anchor="middle">18</text>
+    <circle cx="1075.5" cy="256.0" r="2" fill="#D64F7A"/>
+    <rect x="865.5" y="270.0" width="17.5" height="30" fill="#C4EDE6"/>
+    <circle cx="865.5" cy="285.0" r="15" fill="#C4EDE6"/>
+    <text x="865.5" y="289.0" fill="#00201C" font-size="12" font-weight="500" text-anchor="middle">19</text>
+    <rect x="883.0" y="270.0" width="35.0" height="30" fill="#C4EDE6"/>
+    <text x="900.5" y="289.0" fill="#00201C" font-size="12" font-weight="500" text-anchor="middle">20</text>
+    <rect x="918.0" y="270.0" width="35.0" height="30" fill="#C4EDE6"/>
+    <text x="935.5" y="289.0" fill="#00201C" font-size="12" font-weight="500" text-anchor="middle">21</text>
+    <rect x="953.0" y="270.0" width="17.5" height="30" fill="#C4EDE6"/>
+    <circle cx="970.5" cy="285.0" r="15" fill="#C4EDE6"/>
+    <circle cx="970.5" cy="285.0" r="15" fill="#0E6B60"/>
+    <text x="970.5" y="289.0" fill="#FFFFFF" font-size="12" font-weight="700" text-anchor="middle">22</text>
+    <text x="1005.5" y="289.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">23</text>
+    <circle cx="1005.5" cy="296.0" r="2" fill="#D64F7A"/>
+    <text x="1040.5" y="289.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">24</text>
+    <text x="1075.5" y="289.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">25</text>
+    <text x="865.5" y="329.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">26</text>
+    <text x="900.5" y="329.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">27</text>
+    <circle cx="900.5" cy="336.0" r="2" fill="#E07A2E"/>
+    <text x="935.5" y="329.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">28</text>
+    <text x="970.5" y="329.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">29</text>
+    <circle cx="970.5" cy="336.0" r="2" fill="#8E5BD8"/>
+    <text x="1005.5" y="329.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">30</text>
+    <circle cx="1005.5" cy="336.0" r="2" fill="#8E5BD8"/>
+    <text x="1040.5" y="329.0" fill="#171D1B" font-size="12" font-weight="500" text-anchor="middle">31</text>
+    <text x="1075.5" y="329.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">1</text>
+    <text x="865.5" y="369.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">2</text>
+    <text x="900.5" y="369.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">3</text>
+    <text x="935.5" y="369.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">4</text>
+    <text x="970.5" y="369.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">5</text>
+    <text x="1005.5" y="369.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">6</text>
+    <text x="1040.5" y="369.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">7</text>
+    <text x="1075.5" y="369.0" fill="#A3ADA9" font-size="12" font-weight="500" text-anchor="middle">8</text>
+    <rect x="840" y="392" width="260" height="1" fill="#BEC9C5"/>
+    <text x="858" y="418" fill="#171D1B" font-size="12" font-weight="700">Wednesday, October 14</text>
+    <rect x="858" y="430" width="226" height="40" rx="9" fill="#3D6FE0" fill-opacity="0.12"/>
+    <rect x="864" y="438" width="3" height="24" rx="1.5" fill="#3D6FE0"/>
+    <text x="876" y="447" fill="#171D1B" font-size="11" font-weight="600">Design review</text>
+    <text x="876" y="462" fill="#3F4946" font-size="9.5">11:00 AM – 12:00 PM · Studio 3</text>
+    <rect x="858" y="476" width="226" height="40" rx="9" fill="#2E9E6A" fill-opacity="0.12"/>
+    <rect x="864" y="484" width="3" height="24" rx="1.5" fill="#2E9E6A"/>
+    <text x="876" y="493" fill="#171D1B" font-size="11" font-weight="600">Lunch with Mia</text>
+    <text x="876" y="508" fill="#3F4946" font-size="9.5">12:30 PM – 1:30 PM · Olive &amp; Fig</text>
+  </g>
+</svg>
